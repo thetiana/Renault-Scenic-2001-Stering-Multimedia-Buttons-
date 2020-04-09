@@ -7,5 +7,7 @@ Known issues:
 Rotating too fast rottary encoder leads to wrong command.
 
 TODO:
+
 Shift key return 2 possible values depend on rottary encoder position... have to be one command.
+
 Debounse of the buttons - now the butons are "debounsed" by main loop delay.
