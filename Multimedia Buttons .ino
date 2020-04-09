@@ -1,5 +1,6 @@
 #define DEBUG
 
+//ESP32 pins
 const int r6 = 13;
 const int r5 = 12;
 const int r4 = 14;
